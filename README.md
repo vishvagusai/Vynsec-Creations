@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://drive.google.com/file/d/1wqnocH7gqxiKQhqh6WgP_WxyDJiuNxDs/view?usp=sharing]" alt="VYNSEC CREATIONS Logo" width="120" />
+  <img src="public/logo.png" alt="VYNSEC CREATIONS Logo" width="120" />
   <h1><b>VYNSEC CREATIONS</b></h1>
   <p><b>Pioneering Digital Transformation and Cybersecurity Excellence</b></p>
 </div>
