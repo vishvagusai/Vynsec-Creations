@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="VYNSEC CREATIONS Logo" width="120" />
+  <img src="[https://drive.google.com/file/d/1wqnocH7gqxiKQhqh6WgP_WxyDJiuNxDs/view?usp=sharing]" alt="VYNSEC CREATIONS Logo" width="120" />
   <h1><b>VYNSEC CREATIONS</b></h1>
   <p><b>Pioneering Digital Transformation and Cybersecurity Excellence</b></p>
 </div>
@@ -11,7 +11,7 @@
   <a href="https://twitter.com">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:info@vynsec.com">
+  <a href="mailto:Vishva@vynsec.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -26,7 +26,7 @@ We are an ambitious startup dedicated to delivering exceptional technology solut
 - 🌱 **Our expertise:** Web & App Development, AI & Automation, L1-L3 Network Services, and Cybersecurity.
 - 🤝 **Our Goal:** To become the trusted technology partner for businesses seeking excellence and reliability.
 - 💬 **Ask us about:** Anything related to our tech stack or how we can help your business grow.
-- 📫 **How to reach us:** [info@vynsec.com](mailto:info@vynsec.com)
+- 📫 **How to reach us:** [Vishva@vynsec.in](mailto:Vishva@vynsec.in)
 
 ---
 
